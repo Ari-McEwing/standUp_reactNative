@@ -8,6 +8,7 @@ export default function App() {
           <Text>Open up App.js to start working on your app!</Text>
           <Text>we did it boys</Text>
           <Text>Push My branch</Text>
+          <Text>Push My branch</Text>
       <StatusBar style="auto" />
       </View>
   );
