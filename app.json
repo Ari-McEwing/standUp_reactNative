@@ -1,0 +1,12 @@
+{
+  "name": "standUp_reactNative",
+  "displayName": "standUp_reactNative",
+  "expo": {
+    "name": "standUp_reactNative",
+    "slug": "standUp_reactNative",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
